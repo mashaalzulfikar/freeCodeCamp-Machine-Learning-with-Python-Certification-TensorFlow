@@ -14,5 +14,5 @@ Q: Which type of analysis would be best suited for the following problem?: You h
 A: Linear regression
 
 ## Core Learning Algorithms: Working with Data
-Q: What does the pandas .head() function do? <br>
+Q: What does the pandas `.head()` function do? <br>
 A: By default, shows the first five rows or entries in a data frame.
