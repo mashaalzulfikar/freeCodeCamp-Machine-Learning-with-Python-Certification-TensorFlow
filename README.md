@@ -1,4 +1,4 @@
-# freeCodeCamp-Machine-Learning-with-Python-Certification
+# freeCodeCamp-Machine-Learning-with-Python-Certification (TensorFlow)
 Complete Summary for the Machine Learning with Python Certification course. Certificate available on freeCodeCamp's site after completion.
 
 ## Introduction: Machine Learning Fundamentals
@@ -24,3 +24,7 @@ A: Any data that is not numeric.
 ## Core Learning Algorithms: The Training Process
 Q: What are epochs? <br>
 A: The number of times the model will see the same data.
+
+## Core Learning Algorithms: Classification
+Q: What is classification? <br>
+A: The process of separating data points into different classes.
