@@ -4,3 +4,7 @@ Complete Summary for the Machine Learning with Python Certification course. Cert
 ## Introduction: Machine Learning Fundamentals
 Q: Which statement below is **false**? <br>
 A: Neural networks are modeled after the way the human brain works.
+
+## Introduction to TensorFlow
+Q: Which of the following is **not** a type of tensor? <br>
+A: Flowing
