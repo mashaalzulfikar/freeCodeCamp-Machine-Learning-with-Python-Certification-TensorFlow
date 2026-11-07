@@ -28,3 +28,7 @@ A: The number of times the model will see the same data.
 ## Core Learning Algorithms: Classification
 Q: What is classification? <br>
 A: The process of separating data points into different classes.
+
+## Core Learning Algorithms: Building the Model
+Q: What kind of estimator/model does TensorFlow recommend using for classification? <br>
+A: DNNClassifier
