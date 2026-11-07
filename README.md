@@ -16,3 +16,7 @@ A: Linear regression
 ## Core Learning Algorithms: Working with Data
 Q: What does the pandas `.head()` function do? <br>
 A: By default, shows the first five rows or entries in a data frame.
+
+## Core Learning Algorithms: Training and Testing Data
+Q: What is categorical data?
+A: Any data that is not numeric.
