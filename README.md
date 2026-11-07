@@ -20,3 +20,7 @@ A: By default, shows the first five rows or entries in a data frame.
 ## Core Learning Algorithms: Training and Testing Data
 Q: What is categorical data? <br>
 A: Any data that is not numeric.
+
+## Core Learning Algorithms: The Training Process
+Q: What are epochs? <br>
+A: The number of times the model will see the same data.
