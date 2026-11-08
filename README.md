@@ -40,3 +40,7 @@ A: Shuffle the K points so they're redistributed randomly.
 ## Core Learning Algorithms: Hidden Markov Models
 Q: What makes a Hidden Markov model different than linear regression or classification? <br>
 A: It uses probability distributions to predict future events or states.
+
+## Core Learning Algorithms: Using Probabilities to make Predictions
+Q: What TensorFlow module should you import to implement '.HiddenMarkovModel()'? <br>
+A: 'tensorflow_probability'
