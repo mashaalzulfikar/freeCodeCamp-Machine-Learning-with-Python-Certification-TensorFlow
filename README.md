@@ -44,3 +44,7 @@ A: It uses probability distributions to predict future events or states.
 ## Core Learning Algorithms: Using Probabilities to make Predictions
 Q: What TensorFlow module should you import to implement `.HiddenMarkovModel()`? <br>
 A: `tensorflow_probability`
+
+## Neural Networks with TensorFlow
+Q: A densely connected neural network is one in which...: <br>
+A: all the neurons in the current layer are connected to every neuron in the previous layer.
