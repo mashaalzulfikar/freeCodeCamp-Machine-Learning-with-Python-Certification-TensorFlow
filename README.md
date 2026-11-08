@@ -49,6 +49,6 @@ A: `tensorflow_probability`
 Q: A densely connected neural network is one in which...: <br>
 A: all the neurons in the current layer are connected to every neuron in the previous layer.
 
-## Neural Networks with TensorFlow
+## Neural Networks: Activation Functions
 Q: Which activation function squishes values between -1 and 1? <br>
 A: Tanh (Hyperbolic Tangent)
