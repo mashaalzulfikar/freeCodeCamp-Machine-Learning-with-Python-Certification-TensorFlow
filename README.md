@@ -36,3 +36,7 @@ A: DNNClassifier
 ## Core Learning Algorithms: Clustering
 Q: Which of the following steps is **not** part of the K-Means algorithm? <br>
 A: Shuffle the K points so they're redistributed randomly.
+
+## Core Learning Algorithms: Hidden Markov Models
+Q: What makes a Hidden Markov model different than linear regression or classification? <br>
+A: It uses probability distributions to predict future events or states.
