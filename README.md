@@ -42,5 +42,5 @@ Q: What makes a Hidden Markov model different than linear regression or classifi
 A: It uses probability distributions to predict future events or states.
 
 ## Core Learning Algorithms: Using Probabilities to make Predictions
-Q: What TensorFlow module should you import to implement '.HiddenMarkovModel()'? <br>
-A: 'tensorflow_probability'
+Q: What TensorFlow module should you import to implement `.HiddenMarkovModel()`? <br>
+A: `tensorflow_probability`
