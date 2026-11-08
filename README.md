@@ -32,3 +32,7 @@ A: The process of separating data points into different classes.
 ## Core Learning Algorithms: Building the Model
 Q: What kind of estimator/model does TensorFlow recommend using for classification? <br>
 A: DNNClassifier
+
+## Core Learning Algorithms: Clustering
+Q: Which of the following steps is **not** part of the K-Means algorithm? <br>
+A: Shuffle the K points so they're redistributed randomly.
