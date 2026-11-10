@@ -52,3 +52,7 @@ A: all the neurons in the current layer are connected to every neuron in the pre
 ## Neural Networks: Activation Functions
 Q: Which activation function squishes values between -1 and 1? <br>
 A: Tanh (Hyperbolic Tangent)
+
+## Neural Networks: Optimizers
+Q: What is an optimizer function? <br>
+A: A function that implements the gradient descent and backpropagation algorithms for you.
