@@ -56,3 +56,14 @@ A: Tanh (Hyperbolic Tangent)
 ## Neural Networks: Optimizers
 Q: What is an optimizer function? <br>
 A: A function that implements the gradient descent and backpropagation algorithms for you.
+
+## Neural Networks: Creating a Model
+Q: Fill in the blanks below to build a sequential model of dense layers:
+<br>
+'model = __A__.__B__([
+    __A__.layers.Flatten(input_shape=(28, 28)),
+    __A__.layers.__C__(128, activation='relu'),
+    __A__.layers.__C__(10, activation='softmax')
+])'
+<br>
+A: A: `keras` , B: `Sequential` , C: `Dense`
