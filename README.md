@@ -60,10 +60,6 @@ A: A function that implements the gradient descent and backpropagation algorithm
 ## Neural Networks: Creating a Model
 Q: Fill in the blanks below to build a sequential model of dense layers:
 <br>
-'model = __A__.__B__([
-    __A__.layers.Flatten(input_shape=(28, 28)),
-    __A__.layers.__C__(128, activation='relu'),
-    __A__.layers.__C__(10, activation='softmax')
-])'
+<img width="557" height="152" alt="{07AB2602-837E-408A-B6F6-E353C55DF994}" src="https://github.com/user-attachments/assets/d50e0ac6-c3bb-4afe-81c3-35e4fc036662" />
 <br>
 A: A: `keras` , B: `Sequential` , C: `Dense`
